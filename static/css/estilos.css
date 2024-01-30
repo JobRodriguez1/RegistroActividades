@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#inActividad {
+    width: 100%;
+    height: 150px;
+}
+
+#editarActividad {
+    width: 100%;
+    height: 150px;
+}
+
+.card {
+    background-color: rgba(63, 62, 62, 0.5);
+    padding: 20px;
+}
+
+.card-dashboard {
+    background-color: rgba(217, 230, 255, 0.5);
+    padding: 20px;
+}
+
+.card-header {
+    background-color: transparent;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.card-body {
+    background-color: transparent;
+    padding: 20px;
+}

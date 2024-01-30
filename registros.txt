@@ -1,0 +1,29 @@
+2024-01-28 18:19:27 - Tarea agregada
+2024-01-28 18:20:49 - Tarea agregada
+2024-01-28 18:21:34 - Tarea dwa agregada
+2024-01-28 18:26:24 - Tarea dwa agregada
+2024-01-28 18:26:27 - Tarea [object HTMLButtonElement] seleccionada para editar
+2024-01-28 18:26:49 - Tarea dwa agregada
+2024-01-28 18:26:53 - Tarea dwa seleccionada para editar
+2024-01-28 18:26:58 - Tarea [object HTMLButtonElement] cambiada por: [object HTMLTextAreaElement]
+2024-01-28 18:27:18 - Tarea dwa agregada
+2024-01-28 18:27:24 - Tarea dwa seleccionada para editar
+2024-01-28 18:27:27 - Tarea dwa1231 cambiada por: dwa1231
+2024-01-28 18:27:35 - Tarea dwa1231 seleccionada para editar
+2024-01-28 18:27:37 - Tarea dwa1231123 cambiada por: dwa1231123
+2024-01-28 18:28:10 - Tarea 123 agregada
+2024-01-28 18:28:14 - Tarea 123 seleccionada para editar
+2024-01-28 18:28:17 - Tarea 123 cambiada por: 123123
+2024-01-28 18:28:20 - Tarea 123123 completada
+2024-01-28 18:28:22 - Tarea 123123 desmarcada
+2024-01-28 18:31:02 - Tarea Hacer tarea
+ agregada
+2024-01-28 18:31:05 - Tarea Hacer tarea
+ seleccionada para editar
+2024-01-28 18:31:09 - Tarea Hacer tarea
+ cambiada por: Hacer tarea 2
+
+2024-01-28 18:31:12 - Tarea Hacer tarea 2
+ completada
+2024-01-28 18:31:13 - Tarea Hacer tarea 2
+ desmarcada
