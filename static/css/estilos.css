@@ -4,6 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    color: white;
 }
 
 #inActividad {
@@ -17,11 +18,15 @@ body {
 }
 
 .card {
+    background-color: transparent; 
+
     background-color: rgba(63, 62, 62, 0.5);
     padding: 20px;
 }
 
 .card-dashboard {
+    background-color: transparent; 
+
     background-color: rgba(217, 230, 255, 0.5);
     padding: 20px;
 }
@@ -33,6 +38,30 @@ body {
 }
 
 .card-body {
-    background-color: transparent;
+    background-color: transparent; 
     padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+.btn-primary {
+    background-color: #1a1c1e;
+    border-color: #202326;
+}
+.btn-primary:hover {
+    background-color: #131212;
+    border-color: #202326;
+}
+.error-message {
+    color: #dc3545;
+}
+.background-image {
+    background: url('../img/fondoPaginas.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

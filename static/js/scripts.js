@@ -13,8 +13,8 @@ function Agregar() {
         let listaActividades = "";
         listaActividades += "<tr>";
         listaActividades += "<th>";
-        listaActividades += "<div class='form-check text-center align-items-center d-flex'>";
-        listaActividades += "<input class='form-check-input custom-checkbox' type='checkbox' onchange='tareaTerminada(" + enlaceId + "," + checkboxId + ")' value='' id='" + checkboxId + "'>";
+        listaActividades += "<div class='form-check text-center align-items-center d-flex' >";
+        listaActividades += "<input class='form-check-input custom-checkbox'  type='checkbox' onchange='tareaTerminada(" + enlaceId + "," + checkboxId + ")' value='' id='" + checkboxId + "'>";
         listaActividades += "</div>";
         listaActividades += "</th>";
         listaActividades += "<td><button  onclick='ActualizarElemento(" + enlaceId + ")' id='" + enlaceId + "' class='list-group-item list-group-item-action' value='" + actividad + "'>" + actividad + " </button></td>";

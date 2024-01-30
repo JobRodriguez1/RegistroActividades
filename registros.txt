@@ -27,3 +27,26 @@
  completada
 2024-01-28 18:31:13 - Tarea Hacer tarea 2
  desmarcada
+2024-01-30 16:51:53 - Tarea DW agregada
+2024-01-30 16:52:47 - Tarea dw agregada
+2024-01-30 16:52:48 - Tarea da agregada
+2024-01-30 16:52:49 - Tarea da agregada
+2024-01-30 16:52:51 - Tarea da agregada
+2024-01-30 16:52:53 - Tarea dw completada
+2024-01-30 16:52:54 - Tarea da completada
+2024-01-30 16:52:55 - Tarea dw desmarcada
+2024-01-30 16:52:55 - Tarea da desmarcada
+2024-01-30 16:53:31 - Tarea dwa agregada
+2024-01-30 16:53:33 - Tarea dwa agregada
+2024-01-30 16:53:34 - Tarea dwa completada
+2024-01-30 16:53:35 - Tarea dwa desmarcada
+2024-01-30 16:53:36 - Tarea dwa completada
+2024-01-30 16:53:36 - Tarea dwa desmarcada
+2024-01-30 16:53:59 - Tarea dwa agregada
+2024-01-30 16:54:01 - Tarea dwa completada
+2024-01-30 16:54:01 - Tarea dwa desmarcada
+2024-01-30 16:54:17 - Tarea sq agregada
+2024-01-30 16:54:18 - Tarea dq agregada
+2024-01-30 16:54:20 - Tarea dwa agregada
+2024-01-30 16:54:21 - Tarea dwa agregada
+2024-01-30 16:54:26 - Tarea dwa agregada
